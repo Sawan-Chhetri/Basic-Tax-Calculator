@@ -3,7 +3,7 @@ namespace ReadyTechAssessment
 {
     public class Products
     {
-        public string Name { get; set; }
+        public string Product { get; set; }
 
         public decimal Price { get; set; }
 

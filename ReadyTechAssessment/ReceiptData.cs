@@ -7,7 +7,7 @@ namespace ReadyTechAssessment
 
         public decimal ImportDuty { get; set; }
 
-        public decimal CheckOutItemPrice { get; set; }
+        public decimal FinalItemPrice { get; set; }
 
         public decimal CheckOutTotalPrice { get; set; }
 
