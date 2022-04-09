@@ -128,11 +128,6 @@ namespace ReadyTechAssessment
                     exemption = true;
                     break;
                 }
-                else
-                {
-                    exemption = false;
-                }
-
             }
             return exemption;
         }
